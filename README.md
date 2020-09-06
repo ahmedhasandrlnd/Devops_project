@@ -1,4 +1,4 @@
-[![CircleCI](https://app.circleci.com/pipelines/github/ahmedhasandrlnd/Devops_project.svg?style=svg)](https://app.circleci.com/pipelines/github/ahmedhasandrlnd/Devops_project)
+[![ahmedhasandrlnd](https://app.circleci.com/pipelines/github/ahmedhasandrlnd/Devops_project.svg?style=svg)](https://github.com/ahmedhasandrlnd/Devops_project)
 
 ## Project Overview
 ### Ahmed Monjurul Hasan
